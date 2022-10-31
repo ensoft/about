@@ -1,4 +1,4 @@
-Home | [About](/pages/about.md) | [Culture](/pages/culture.md) | [Join Us](/pages/join.md) | [COVID-19](/pages/covid.md)
+Home | [About](/pages/about.md) | [Culture](/pages/culture.md) | [Join Us](/pages/join.md)
 ![spacer](https://logs-01.loggly.com/inputs/e0e1595f-302c-4de6-bfe3-a7da99d6a3d3.gif?type=github&page=home)
 [![banner](/pages/img/cisco_ensoft_banner.png)](/README.md)
 
@@ -15,7 +15,7 @@ But maybe you were still a bit curious for more back-story? If so, then this rep
 
 ## "Run the Internet"?
 
-Especially in this time of COVID-19, the Internet underpins everything we do.
+The Internet underpins everything we do.
 It's how we learn, play, work, relax, connect, even fall in love.
 
 But the Internet doesn't build itself, and it has to evolve rapidly.
@@ -35,5 +35,3 @@ If you're intrigued whether that might include you, click below!
 [Culture](pages/culture.md) - _Life as a Cisco Ensoft engineer._
 
 [Join Us](pages/join.md) - _Come and work with us._
-
-[COVID-19](pages/covid.md) - _Our response and safety measures._

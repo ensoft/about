@@ -1,4 +1,4 @@
-[Home](/README.md) | About | [Culture](/pages/culture.md) | [Join Us](/pages/join.md) | [COVID-19](/pages/covid.md)
+[Home](/README.md) | About | [Culture](/pages/culture.md) | [Join Us](/pages/join.md)
 ![spacer](https://logs-01.loggly.com/inputs/e0e1595f-302c-4de6-bfe3-a7da99d6a3d3.gif?type=github&page=about)
 [![banner](/pages/img/cisco_ensoft_banner_small.png)](/README.md)
 
@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Cisco Ensoft is a team of around 70 software engineers working for Cisco, the
+Cisco Ensoft is a team of around 80 software engineers working for Cisco, the
 world's largest computer networking company. The Ensoft team deliver software
 solutions for the most critical and high-capacity routers that run the
 Internet.
@@ -52,12 +52,14 @@ UK, and #3
 across all sectors](https://www.b.co.uk/the-lists/small-companies/?year-2018-p-266-749/)
 in its final year as an independent company.
 
-Since acquisition, Cisco has come [#1 in the global "World's Best Workplace" awards two years
+Since acquisition, Cisco has, for example, come [#1 in the global "World's Best Workplace" awards two years
 running](https://blogs.cisco.com/wearecisco/cisco-worlds-best-workplace), and
-was ranked [#2 across UK super-large
-employers](https://www.greatplacetowork.co.uk/awards/uks-best-workplaces/uks-best-workplaces-2019/).
+was ranked #2 across UK super-large
+employers in
+[2020](https://www.greatplacetowork.co.uk/awards/uks-best-workplaces/uks-best-workplaces-2020/)
+and [2022](https://www.greatplacetowork.co.uk/awards/uks-best-workplaces/uks-best-workplaces-2022/).
 
 [![banner](/pages/img/awards.png)](https://fortune.com/worlds-best-workplaces/2020/)
 
 ---
-[Home](/README.md) | About | [Culture](/pages/culture.md) | [Join Us](/pages/join.md) | [COVID-19](/pages/covid.md)
+[Home](/README.md) | About | [Culture](/pages/culture.md) | [Join Us](/pages/join.md)

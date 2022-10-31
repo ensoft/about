@@ -1,4 +1,4 @@
-[Home](/README.md) | [About](/pages/about.md) | Culture | [Join Us](/pages/join.md) | [COVID-19](/pages/covid.md)
+[Home](/README.md) | [About](/pages/about.md) | Culture | [Join Us](/pages/join.md)
 ![spacer](https://logs-01.loggly.com/inputs/e0e1595f-302c-4de6-bfe3-a7da99d6a3d3.gif?type=github&page=culture)
 [![banner](/pages/img/cisco_ensoft_banner_small.png)](/README.md)
 
@@ -66,8 +66,14 @@ writing some code on your own, or collaborating with colleagues.
 There's no dress code - everyone is encouraged to dress in a way that is
 comfortable and reflects their personality.
 
-Obviously right now, things are different due to COVID, and our collaborative
-environment has [successfully moved online](/pages/covid.md). But normally:
+Since Covid, we have enthusiastically embraced hybrid work, to combine the best
+of both flexibility and in-person collaboration. For
+example, we have three "core days" per week, where you can expect people to be in the
+office, and it's up to you for the other two. You can also work
+from anywhere in the world for two weeks per year.
+
+The most rewarding and creative collaboration come from in-person interactions,
+so we put a lot of thought into the office. For example:
 
  - Everyone gets a sit-stand desk, high-spec laptop, ergonomic Herman Miller
    desk chair etc.
@@ -130,7 +136,13 @@ In between are many activities that the company might support in some way. For e
 
 We believe we are here to make a difference, not just make money.
 
-All employees are given the chance to take five days to volunteer for a cause of their choice every year through the [Time2Give](https://blogs.cisco.com/tag/time2give) scheme. (It was extended to ten days for 2020, due to the exceptional situation of COVID-19.) There's corporate donation matching of up to $10,000 per annum. Any time someone volunteers for an hour, they can claim a $10 donation from Cisco for the charity.
+All employees are given the chance to take at least five days to volunteer for a
+cause of their choice every year through the
+[Time2Give](https://blogs.cisco.com/tag/time2give) scheme. (It has actually been
+at least ten days for the past two years.) There's
+corporate donation matching of up to $10,000 per annum. Any time someone
+volunteers for an hour, they can claim a $10 donation from Cisco for the
+charity.
 
 For more information about Cisco's commitment to corporate social responsibility (or 'CSR'), check out [Cisco's CSR page](https://www.cisco.com/c/en/us/about/csr.html) or even the [Cisco CSR Twitter](https://twitter.com/ciscocsr?lang=en)!
 
@@ -141,4 +153,4 @@ levels about the commitment. For example Cisco ranked #2 in Fortune's [100 Best 
 
 One article on diversity within Cisco can be found [here](https://www.cisco.com/c/en/us/about/inclusion-diversity/us.html); this includes a snapshot of the current diversity levels, and lots of other information such as pay parity and company initiatives to develop an equal, fair and inclusive workplace for all.
 
-[Home](/README.md) | [About](/pages/about.md) | Culture | [Join Us](/pages/join.md) | [COVID-19](/pages/covid.md)
+[Home](/README.md) | [About](/pages/about.md) | Culture | [Join Us](/pages/join.md)

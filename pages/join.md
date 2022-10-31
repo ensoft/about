@@ -1,4 +1,4 @@
-[Home](/README.md) | [About](/pages/about.md) | [Culture](/pages/culture.md) | Join Us | [COVID-19](/pages/covid.md)
+[Home](/README.md) | [About](/pages/about.md) | [Culture](/pages/culture.md) | Join Us
 ![spacer](https://logs-01.loggly.com/inputs/e0e1595f-302c-4de6-bfe3-a7da99d6a3d3.gif?type=github&page=join)
 [![banner](/pages/img/cisco_ensoft_banner_small.png)](/README.md)
 
@@ -85,7 +85,7 @@ Since the timescale is relatively short, we do require enough coding experience 
 
 ### Micro Internships
 
-We sometimes also run paid micro-internships, that last just one week. **Micro-internships are currently on hold because of COVID.** Summer internships are operating as usual though.
+We sometimes also run paid micro-internships, that last just one week.
 
 When they are on offer, they are advertised separately. They provide a taster of what it is like at Cisco Ensoft, and the opportunity to write some software professionally, albeit on a small project. We require enough coding experience to make a meaningful contribution in the week.
 
@@ -109,4 +109,4 @@ No referees are required at this stage; we will only request these details from 
 
 If you have any questions, and have a GitHub account, feel free to [open an issue here](https://github.com/ensoft/about/issues/new/choose) if you want to talk to a human being. Good luck!
 
-[Home](/README.md) | [About](/pages/about.md) | [Culture](/pages/culture.md) | Join Us | [COVID-19](/pages/covid.md)
+[Home](/README.md) | [About](/pages/about.md) | [Culture](/pages/culture.md) | Join Us
