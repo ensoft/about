@@ -93,7 +93,7 @@ When they are on offer, they are advertised separately. They provide a taster of
 
 The application process is as easy as we can make it:
 
- 1. Submit a CV via the [Cisco hiring page](https://jobs.cisco.com/jobs/SearchJobs/ensoft) for the role you want (full-time graduate or summer intern).
+ 1. Submit a CV via the [Cisco hiring page](https://cisco.yello.co/app/collect/event/mxK2CUqfaJqiB-AEMRfRTg) for the role you want (full-time graduate or summer intern).
  2. If you're selected for interview, there will be two interview chats, and one short test (currently all administered online).
  3. That's it.
 
