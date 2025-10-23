@@ -40,11 +40,11 @@ Also unusually, we don't "parachute in" senior management or architectural hires
 
 We never stop learning new skills and technologies. But the formal, company-led part of the new graduate training roughly falls into three phases:
 
- - "EnDuction": for the first few weeks, all the new starters work through an intensive programme together. This covers a baseline of not just techical skills and knowledge, but also orientation for the company and team, and social introductions. People get a lot of free lunches out, to meet everyone!
+ - "EnDuction": for the first few weeks, all the new starters work through an intensive programme together. This covers a baseline of not just technical skills and knowledge, but also orientation for the company and team, and social introductions. People get a lot of free lunches out, to meet everyone!
 
-  - After that, the new graduates are dispersed into their teams (typically 3-6 people) where their training continues in the context of a real mission-critical project. The best way to learn is by doing, but there's a lot of help in this phase, including a dedicated mentor and extra classes.
+ - After that, the new graduates are dispersed into their teams (typically 3-6 people) where their training continues in the context of a real mission-critical project. The best way to learn is by doing, but there's a lot of help in this phase, including a dedicated mentor and extra classes.
 
-  - By the end of the first year, most people are capable developers in at least one niche, but there is a huge amount to learn. So the balance shifts to a more advanced multi-year baseline syllabus, that gradually blends into a more tailored development path for that individual.
+ - By the end of the first year, most people are capable developers in at least one niche, but there is a huge amount to learn. So the balance shifts to a more advanced multi-year baseline syllabus, that gradually blends into a more tailored development path for that individual.
 
 People get more responsibility as soon as they want it and show they are able (which can be very soon, for those with more experience) - we won't slow you down! But you will never be left stranded either - there is always all the support and help you need.
 
@@ -52,7 +52,7 @@ As with the other aspects of [culture](/pages/culture.md), everyone gets their o
 
 ## Benefits
 
-A whistle-stop summary of benefits include:
+A whistle-stop summary of benefits includes:
 
  - Competitive starting salary
  - Annual bonus

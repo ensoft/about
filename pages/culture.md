@@ -16,7 +16,7 @@
 
  - [Giving Back](#giving-back) _How we help out._
 
- - [Diversity](#diversity) - _Our equal commitment to everyone._
+ - [Diversity](#diversity) _Our equal commitment to everyone._
 
 
 ## Career Development
@@ -27,7 +27,7 @@ the senior roles the team needs.
 
 Everyone is initially hired as a software engineer. First and foremost, you're
 expected to become a first-rate professional developer. (If your interests are
-more adjancent to that, such as technical sales, then there are [other roles
+more adjacent to that, such as technical sales, then there are [other roles
 within Cisco](https://jobs.cisco.com) that you'll probably enjoy more.)
 
 Many people remain in a pure software development role, and that's great! But
@@ -72,7 +72,7 @@ example, we have three "core days" per week, where you can expect people to be i
 office, and it's up to you for the other two. You can also work
 from anywhere in the world for two weeks per year.
 
-The most rewarding and creative collaboration come from in-person interactions,
+The most rewarding and creative collaborations come from in-person interactions,
 so we put a lot of thought into the office. For example:
 
  - Everyone gets a sit-stand desk, high-spec laptop, ergonomic Herman Miller
