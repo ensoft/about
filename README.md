@@ -9,7 +9,7 @@ Internet.
 
 You might have seen a flyer for our [graduate careers or
 internships](https://cs.co/ensoft), or a [job
-advert](https://cisco.yello.co/app/collect/event/mxK2CUqfaJqiB-AEMRfRTg).
+advert]([https://careers.cisco.com/global/en/job/2000025/Ensoft-Early-in-Career-Software-Engineer]).
 
 But maybe you were still a bit curious for more back-story? If so, then this repo is for you!
 
